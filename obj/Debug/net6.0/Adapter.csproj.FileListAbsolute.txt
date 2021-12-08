@@ -1,0 +1,15 @@
+D:\С#\Adapter\Adapter\bin\Debug\net6.0\Adapter.exe
+D:\С#\Adapter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\С#\Adapter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+D:\С#\Adapter\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\С#\Adapter\Adapter\bin\Debug\net6.0\ref\Adapter.dll
+D:\С#\Adapter\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\С#\Adapter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
